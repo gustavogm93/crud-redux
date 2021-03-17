@@ -1,0 +1,94 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "31111"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "name": "Pantufla Turca",
+      "price": 524,
+      "id": 6
+    },
+    {
+      "name": "Gustavo",
+      "price": 24,
+      "id": 7
+    },
+    {
+      "name": "Gustavo2",
+      "price": 423,
+      "id": 8
+    },
+    {
+      "name": "Trueteller",
+      "price": 4342,
+      "id": 9
+    },
+    {
+      "name": "Trueteller",
+      "price": 4534,
+      "id": 10
+    },
+    {
+      "name": "Gustavo",
+      "price": 120,
+      "id": 11
+    },
+    {
+      "name": "Otb_redBaron",
+      "price": 5432,
+      "id": 12
+    },
+    {
+      "name": "fsdf",
+      "price": 5432,
+      "id": 13
+    },
+    {
+      "name": "Trueteller",
+      "price": 34,
+      "id": 14
+    },
+    {
+      "name": "Otb_redBaron",
+      "price": 5,
+      "id": 15
+    },
+    {
+      "name": "Otb_redBaron",
+      "price": 432,
+      "id": 16
+    },
+    {
+      "name": "Gustavo",
+      "price": 43,
+      "id": 17
+    },
+    {
+      "name": "Trueteller",
+      "price": 2342,
+      "id": 18
+    }
+  ]
+}
